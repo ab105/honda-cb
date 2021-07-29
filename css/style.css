@@ -1,0 +1,6 @@
+.bg-color {
+  background-color: #264653;
+}
+.img-gray{
+    filter: grayscale(100%);
+}
